@@ -1,0 +1,225 @@
+2024-06-05 11:36:49,002:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 11:36:49,003:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 11:49:42,574:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 11:49:42,575:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 11:51:31,750:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 11:51:31,750:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 12:07:57,364:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 12:07:57,364:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 12:15:52,064:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 12:15:52,083:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 12:15:59,907:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 12:43:25,316:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 12:43:25,316:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 12:43:31,299:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 12:43:42,944:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 12:43:42,944:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 12:43:46,711:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 12:48:46,404:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 12:48:46,405:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 12:48:52,226:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 12:49:19,451:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 12:49:19,451:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 12:49:23,568:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 12:57:06,820:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 12:57:06,821:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 12:57:12,241:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 12:57:30,787:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 12:57:30,787:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 12:57:34,821:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 15:22:15,192:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 15:22:15,192:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 15:22:20,755:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 15:22:45,554:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 15:22:45,554:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 15:22:49,301:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 15:34:02,435:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 15:34:02,435:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 15:34:08,167:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 15:34:29,618:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 15:34:29,620:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 15:34:33,637:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 15:38:59,927:utils:CRITICAL:Error loading text file:Error loading C:\Users\ramsh\AppData\Local\Temp\tmpix2tm28u.csv:get_csv_split
+2024-06-05 15:46:36,159:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 15:46:36,160:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 15:46:41,056:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 15:47:43,998:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 15:47:43,998:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 15:47:47,680:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 15:57:28,292:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 15:57:28,292:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 15:57:30,888:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 16:03:30,626:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 16:03:30,629:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 16:03:36,182:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 16:20:16,635:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 16:20:16,635:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 16:20:22,133:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 16:20:40,943:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 16:20:40,946:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 16:20:44,686:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 16:33:42,639:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 16:33:42,639:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 16:33:48,376:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 16:52:16,246:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 16:52:16,247:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 16:52:21,833:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 16:52:38,194:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 16:52:38,194:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 16:52:41,811:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 16:55:36,594:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 16:55:36,594:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 16:55:41,978:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 16:56:02,354:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 16:56:02,354:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 16:56:06,565:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 17:10:47,791:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 17:10:47,791:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 17:10:53,228:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 17:11:12,165:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 17:11:12,165:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 17:11:15,991:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 17:11:43,939:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 17:11:43,939:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 17:11:47,715:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 17:12:05,226:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 17:12:05,226:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 17:12:08,930:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 17:33:29,634:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 17:33:29,634:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 17:33:34,813:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 17:33:46,548:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 17:33:46,548:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 17:33:50,086:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 17:34:16,238:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 17:34:16,238:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 17:34:20,007:utils:INFO:Successfully created the vectordb:background_task
+2024-06-05 17:34:42,936:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-05 17:34:42,936:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-05 17:34:46,729:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 10:47:32,591:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 10:47:32,592:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 10:47:39,103:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 10:48:02,121:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 10:48:02,122:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 10:48:05,610:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:12:13,580:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:12:13,581:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:12:19,356:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:12:35,602:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:12:35,602:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:12:39,541:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:13:00,099:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:13:00,099:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:13:03,685:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:18:36,918:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:18:36,918:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:18:42,642:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:18:56,841:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:18:56,841:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:19:00,491:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:23:27,551:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:23:27,552:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:23:32,998:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:30:43,524:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:30:43,524:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:30:48,795:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:35:06,977:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:35:06,977:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:35:12,857:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:35:30,866:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:35:30,866:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:35:34,748:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:35:59,275:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:35:59,275:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:36:03,616:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:41:01,479:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:41:01,479:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:41:06,744:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:41:23,781:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:41:23,781:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:41:27,477:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:43:07,212:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:43:07,212:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:43:13,342:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:44:43,070:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:44:43,070:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:44:48,726:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:45:08,203:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:45:08,203:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:45:12,245:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:45:43,696:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:45:43,696:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:45:47,799:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 11:59:32,994:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 11:59:32,998:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 11:59:38,704:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:03:16,463:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:03:16,467:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:03:21,854:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:05:31,109:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:05:31,109:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:05:36,923:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:11:14,078:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:11:14,078:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:11:19,745:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:12:38,211:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:12:38,211:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:12:43,613:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:12:54,209:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:12:54,209:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:12:56,901:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:13:02,681:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:13:02,681:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:13:06,402:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:13:37,749:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:13:37,749:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:13:41,302:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:15:17,576:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:15:17,576:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:15:22,963:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:15:33,984:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:15:33,984:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:15:37,683:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:16:00,366:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:16:00,366:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:16:03,951:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:19:19,486:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:19:19,486:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:19:23,635:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:19:47,011:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:19:47,012:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:19:49,547:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:20:08,922:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:20:08,922:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:20:11,345:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:24:52,336:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:24:52,337:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:24:56,292:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:25:11,773:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:25:11,774:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:25:14,357:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:25:34,870:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:25:34,870:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:25:37,411:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:29:40,425:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:29:40,426:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:29:44,239:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:29:54,399:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:29:54,400:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:29:57,427:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:30:22,962:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:30:22,962:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:30:25,696:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:31:54,795:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:31:54,795:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:31:58,296:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:32:10,815:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:32:10,815:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:32:13,232:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:32:30,596:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:32:30,596:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:32:35,889:utils:INFO:Successfully created the vectordb:background_task
+2024-06-06 12:33:28,782:utils:INFO:Successfully loaded the text file:get_txt_split
+2024-06-06 12:33:28,782:utils:INFO:Successfully split the text file:get_txt_split
+2024-06-06 12:33:31,334:utils:INFO:Successfully created the vectordb:background_task
