@@ -1,3 +1,4 @@
 langchain
 openai
 qdrant-client
+vectorstore
