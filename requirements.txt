@@ -2,6 +2,6 @@ langchain
 openai
 qdrant-client
 vectorstore
-langchain-community
+langchain_community
 python-dotenv
 transformers
