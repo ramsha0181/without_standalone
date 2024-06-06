@@ -4,3 +4,4 @@ qdrant-client
 vectorstore
 langchain-community
 python-dotenv
+transformers
